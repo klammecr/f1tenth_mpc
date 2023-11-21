@@ -1,4 +1,6 @@
-# Lab 6: SLAM and Pure Pursuit
+# MPC
 
 ## YouTube video link
-[FILL ME IN](https://tinyurl.com/22mts2ax)
+[Levine Video](https://youtu.be/va1vyoimj4Q)
+
+[AIMS Video](https://drive.google.com/drive/folders/1AsByzgu5m45bqKEMSbGrijx2kI6PYQlU)
